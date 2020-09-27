@@ -1,0 +1,17 @@
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client.deps.json
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.json
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.dev.json
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client.dll
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Client.pdb
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/joe/git/IdentityPractice/quickstart/src/Client/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.csprojAssemblyReference.cache
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfoInputs.cache
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.csproj.CoreCompileInputs.cache
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.csproj.CopyComplete
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.dll
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.pdb
+/home/joe/git/IdentityPractice/quickstart/src/Client/obj/Debug/netcoreapp3.1/Client.genruntimeconfig.cache

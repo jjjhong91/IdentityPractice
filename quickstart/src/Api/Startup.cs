@@ -30,12 +30,12 @@ namespace Api
             services.AddAuthentication("Bearer")
                     .AddJwtBearer("Bearer", options =>
                     {
-                        options.Authority = "https://192.168.0.113:5001";
+                        options.Authority = "http://localhost:5001";
 
-                        options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
-                        {
-                            ValidateAudience = false
-                        };
+                        // options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+                        // {
+                        //     ValidateAudience = false
+                        // };
                     });
         }
 
